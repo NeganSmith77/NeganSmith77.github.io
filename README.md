@@ -1,6 +1,6 @@
 # Card Conjurer
 Use the following link to start creating your own custom Magic: The Gathering cards!
-https://cardconjurer.com/
+https://negansmith77.github.io/cardconjurer/
 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?longCache=true&style=popout)](https://www.paypal.me/kyleburtondonate
